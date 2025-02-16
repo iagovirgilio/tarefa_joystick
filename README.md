@@ -123,3 +123,7 @@ Uma zona morta (DEADZONE) é utilizada para manter o quadrado centralizado quand
 Caso seja necessário, ajustes na calibração do joystick e na tolerância (DEADZONE) podem ser implementados para compensar variações de hardware.
 
 ---
+
+## Demonstração no YouTube
+
+Confira a demonstração completa deste projeto no YouTube: [Demonstração do Projeto]( https://youtu.be/yeb3hXDEu6o?si=xqMEuNa3GglnZ3Yg )
